@@ -20,5 +20,7 @@ Instructions on how to install those maps:
   If there's a TF2-related mod that you want to install those maps to, here is a list (from what I know) of the default install folders of a couple of them:
   
   Team Fortress 2 Classic: "C:\Program Files (x86)\Steam\steamapps\sourcemods\tf2classic"
+  
   Open Fortress: "C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress"
+  
   Lambda Fortress Extended: "C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended"
