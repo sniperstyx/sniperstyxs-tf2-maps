@@ -13,4 +13,5 @@ Instructions on how to install those maps:
 9) congrats! you're now playing on one of my maps!
 
 (note 1: skip steps 5 and 6 if you already have the console enabled)
+  
 (note 2: you don't need to have both the VPK files and the BSP files installed, unless you want to make sure that you have both installed)
