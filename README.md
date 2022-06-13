@@ -15,3 +15,10 @@ Instructions on how to install those maps:
 (note 1: skip steps 5 and 6 if you already have the console enabled)
   
 (note 2: you don't need to have both the VPK files and the BSP files installed, unless you want to make sure that you have both installed)
+
+  
+  If there's a TF2-related mod that you want to install those maps to, here is a list (from what I know) of the default install folders of a couple of them:
+  
+  Team Fortress 2 Classic: "C:\Program Files (x86)\Steam\steamapps\sourcemods\tf2classic"
+  Open Fortress: "C:\Program Files (x86)\Steam\steamapps\sourcemods\open_fortress"
+  Lambda Fortress Extended: "C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended"
